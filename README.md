@@ -2,7 +2,7 @@
 I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 <p align='center'>
-   <img width=400 src='./img/coding.gif' width='150px'></img>
+   <img width=400 src='typing.gif' width='150px'></img>
 </p>
 
 ## Tools 🧰 
