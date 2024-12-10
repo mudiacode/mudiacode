@@ -25,4 +25,4 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 
 ## Stats 📈 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MudiaCode)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mudiacode)](https://git.io/streak-stats)
