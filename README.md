@@ -26,5 +26,7 @@ I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
 
 ## Stats 📈 
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MudiaCode&theme=catppuccin-latte&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MudiaCode&theme=catppuccin-latte&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
