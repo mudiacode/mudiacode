@@ -1,5 +1,5 @@
-**<p align='center'>Welcome to my GitHub Page! :wave: I'm a tech enthusist and upcoming software developer. <br>
-I study BSc. Computer Science @ University of Brighton :mortar_board:</p>**
+**<p align='center'>Welcome to my GitHub Page! :wave: Digital Minmalist and Linux System Administrator. <br>
+Graduate BSc. Computer Science student @ University of Brighton :mortar_board:</p>**
 
 <p align='center'>
    <img width=400 src='typing.gif' width='150px'></img>
